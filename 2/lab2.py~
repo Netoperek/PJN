@@ -1,0 +1,70 @@
+from plp import PLP
+import sys
+import re
+p = PLP()
+
+LIMIT = 15
+
+def parse_input(file):
+    words = []
+    f = open(file)
+    for line in f:
+        line = re.sub('[,.("]', '', line)
+        words.extend(line.split())
+    return words
+
+
+def get_word_indices(stimulus):
+    stimulus_indicies = []
+    for i in range(len(words)):
+        if words[i].decode('utf-8') in p.forms(p.rec(stimulus)[0]):
+            stimulus_indicies.append(i)
+    return stimulus_indicies
+
+def get_verbs(indices, words):
+    result = []
+    sentences = []
+    for i in indices:
+        j = i - 1
+        left = i
+        right = i
+        list = []
+        while True:
+            if(j >= 0 and i - j <= LIMIT):
+                if(len(p.rec(words[j].decode('utf-8')))):
+                    if(p.label(p.rec(words[j].decode('utf-8'))[0])[0] == PLP.CZESCI_MOWY.CZASOWNIK):
+                        left = j
+                        break
+            else:
+                break
+            j = j - 1
+
+        j = i + 1
+        while True:
+            if(j - i <= LIMIT and j < len(words)):
+                if(len(p.rec(words[j].decode('utf-8')))):
+                    if(p.label(p.rec(words[j].decode('utf-8'))[0])[0] == PLP.CZESCI_MOWY.CZASOWNIK):
+                        right = j
+                        break
+            else:
+                break
+            j = j + 1
+
+        for i in xrange(left, right + 1):
+            list.append(words[i])
+        result.append(list)
+
+    for list in result:
+       sentences.append(" ".join(list))
+    return sentences
+
+words = parse_input('mleko')
+indices = get_word_indices('mleko')
+sentences = get_verbs(indices, words)
+
+for sentence in sentences:
+    print sentence
+
+print ""
+print "##############################################"
+print "LICZBA ZDAN ", len(sentences) 

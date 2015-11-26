@@ -1,0 +1,473 @@
+// My Graph
+digraph {
+	krowa
+		mleko -> krowa [label=205 len=0.487804878049]
+	"białe"
+		mleko -> "białe" [label=124 len=0.806451612903]
+	matki
+		mleko -> matki [label=40 len=2.5]
+	"biały"
+		mleko -> "biały" [label=30 len=3.33333333333]
+	krowie
+		mleko -> krowie [label=23 len=4.34782608696]
+	biel
+		mleko -> biel [label=22 len=4.54545454545]
+	"płatki"
+		mleko -> "płatki" [label=19 len=5.26315789474]
+	kawa
+		mleko -> kawa [label=18 len=5.55555555556]
+	rozlane
+		mleko -> rozlane [label=14 len=7.14285714286]
+	"nabiał"
+		mleko -> "nabiał" [label=13 len=7.69230769231]
+	"kwaśne"
+		mleko -> "kwaśne" [label=12 len=8.33333333333]
+	"łaciate"
+		mleko -> "łaciate" [label=10 len=10.0]
+	woda
+		mleko -> woda [label=10 len=10.0]
+	"zsiadłe"
+		mleko -> "zsiadłe" [label=10 len=10.0]
+	kot
+		mleko -> kot [label=9 len=11.1111111111]
+	"pić"
+		mleko -> "pić" [label=9 len=11.1111111111]
+	ser
+		mleko -> ser [label=9 len=11.1111111111]
+	"świeże"
+		mleko -> "świeże" [label=9 len=11.1111111111]
+	matka
+		mleko -> matka [label=8 len=12.5]
+	"od krowy"
+		mleko -> "od krowy" [label=7 len=14.2857142857]
+	kozie
+		mleko -> kozie [label=6 len=16.6666666667]
+	chleb
+		mleko -> chleb [label=5 len=20.0]
+	kakao
+		mleko -> kakao [label=5 len=20.0]
+	szklanka
+		mleko -> szklanka [label=5 len=20.0]
+	uht
+		mleko -> uht [label=5 len=20.0]
+	zimne
+		mleko -> zimne [label=5 len=20.0]
+	jogurt
+		mleko -> jogurt [label=4 len=25.0]
+	koza
+		mleko -> koza [label=4 len=25.0]
+	"masło"
+		mleko -> "masło" [label=4 len=25.0]
+	picie
+		mleko -> picie [label=4 len=25.0]
+	"śmietana"
+		mleko -> "śmietana" [label=4 len=25.0]
+	"białko"
+		mleko -> "białko" [label=3 len=33.3333333333]
+	butelka
+		mleko -> butelka [label=3 len=33.3333333333]
+	"ciepłe"
+		mleko -> "ciepłe" [label=3 len=33.3333333333]
+	dziecko
+		mleko -> dziecko [label=3 len=33.3333333333]
+	"miód"
+		mleko -> "miód" [label=3 len=33.3333333333]
+	mleko
+		mleko -> mleko [label=3 len=33.3333333333]
+	"napój"
+		mleko -> "napój" [label=3 len=33.3333333333]
+	"tłuste"
+		mleko -> "tłuste" [label=3 len=33.3333333333]
+	"tłuszcz"
+		mleko -> "tłuszcz" [label=3 len=33.3333333333]
+	"i miód"
+		mleko -> "i miód" [label=2 len=50.0]
+	"kwaśny"
+		mleko -> "kwaśny" [label=2 len=50.0]
+	nos
+		mleko -> nos [label=2 len=50.0]
+	"odtłuszczone"
+		mleko -> "odtłuszczone" [label=2 len=50.0]
+	"pełne"
+		mleko -> "pełne" [label=2 len=50.0]
+	"pierś"
+		mleko -> "pierś" [label=2 len=50.0]
+	pije
+		mleko -> pije [label=2 len=50.0]
+	"pod nosem"
+		mleko -> "pod nosem" [label=2 len=50.0]
+	proszek
+		mleko -> proszek [label=2 len=50.0]
+	"rozlać"
+		mleko -> "rozlać" [label=2 len=50.0]
+	"skisłe"
+		mleko -> "skisłe" [label=2 len=50.0]
+	sojowe
+		mleko -> sojowe [label=2 len=50.0]
+	"ssać"
+		mleko -> "ssać" [label=2 len=50.0]
+	"śniadanie"
+		mleko -> "śniadanie" [label=2 len=50.0]
+	"świerze"
+		mleko -> "świerze" [label=2 len=50.0]
+	"w proszku"
+		mleko -> "w proszku" [label=2 len=50.0]
+	"żółty"
+		ser -> "żółty" [label=240 len=0.416666666667]
+	szwajcarski
+		ser -> szwajcarski [label=74 len=1.35135135135]
+	"pleśniowy"
+		ser -> "pleśniowy" [label=61 len=1.6393442623]
+	dziury
+		ser -> dziury [label=54 len=1.85185185185]
+	"zółty"
+		ser -> "zółty" [label=49 len=2.04081632653]
+	"biały"
+		ser -> "biały" [label=47 len=2.12765957447]
+	dziura
+		ser -> dziura [label=21 len=4.7619047619]
+	gouda
+		ser -> gouda [label=20 len=5.0]
+	dziurawy
+		ser -> dziurawy [label=19 len=5.26315789474]
+	"z dziurami"
+		ser -> "z dziurami" [label=16 len=6.25]
+	mysz
+		ser -> mysz [label=14 len=7.14285714286]
+	jedzenie
+		ser -> jedzenie [label=12 len=8.33333333333]
+	edamski
+		ser -> edamski [label=8 len=12.5]
+	szynka
+		ser -> szynka [label=7 len=14.2857142857]
+	"twaróg"
+		ser -> "twaróg" [label=6 len=16.6666666667]
+	"pleśń"
+		ser -> "pleśń" [label=5 len=20.0]
+	kanapka
+		ser -> kanapka [label=4 len=25.0]
+	kozi
+		ser -> kozi [label=4 len=25.0]
+	mleko
+		ser -> mleko [label=4 len=25.0]
+	szwajcaria
+		ser -> szwajcaria [label=4 len=25.0]
+	topiony
+		ser -> topiony [label=4 len=25.0]
+	"jeść"
+		ser -> "jeść" [label=3 len=33.3333333333]
+	"nabiał"
+		ser -> "nabiał" [label=3 len=33.3333333333]
+	cheese
+		ser -> cheese [label=2 len=50.0]
+	chleb
+		ser -> chleb [label=2 len=50.0]
+	dobry
+		ser -> dobry [label=2 len=50.0]
+	dziecko
+		ser -> dziecko [label=2 len=50.0]
+	francja
+		ser -> francja [label=2 len=50.0]
+	"gołda"
+		ser -> "gołda" [label=2 len=50.0]
+	kalorie
+		ser -> kalorie [label=2 len=50.0]
+	oscypek
+		ser -> oscypek [label=2 len=50.0]
+	"pleśnowy"
+		ser -> "pleśnowy" [label=2 len=50.0]
+	pyszny
+		ser -> pyszny [label=2 len=50.0]
+	ser
+		ser -> ser [label=2 len=50.0]
+	serek
+		ser -> serek [label=2 len=50.0]
+	smaczny
+		ser -> smaczny [label=2 len=50.0]
+	"śmierdzi"
+		ser -> "śmierdzi" [label=2 len=50.0]
+	"wędzony"
+		ser -> "wędzony" [label=2 len=50.0]
+	czysta
+		woda -> czysta [label=73 len=1.3698630137]
+	mokra
+		woda -> mokra [label=60 len=1.66666666667]
+	zimna
+		woda -> zimna [label=32 len=3.125]
+	rzeka
+		woda -> rzeka [label=29 len=3.44827586207]
+	morze
+		woda -> morze [label=28 len=3.57142857143]
+	"życie"
+		woda -> "życie" [label=28 len=3.57142857143]
+	mineralna
+		woda -> mineralna [label=26 len=3.84615384615]
+	picie
+		woda -> picie [label=23 len=4.34782608696]
+	mokro
+		woda -> mokro [label=22 len=4.54545454545]
+	"ogień"
+		woda -> "ogień" [label=22 len=4.54545454545]
+	"głęboka"
+		woda -> "głęboka" [label=16 len=6.25]
+	"płynie"
+		woda -> "płynie" [label=16 len=6.25]
+	"strumień"
+		woda -> "strumień" [label=16 len=6.25]
+	pragnienie
+		woda -> pragnienie [label=15 len=6.66666666667]
+	cicha
+		woda -> cicha [label=14 len=7.14285714286]
+	niebieska
+		woda -> niebieska [label=13 len=7.69230769231]
+	"źródlana"
+		woda -> "źródlana" [label=12 len=8.33333333333]
+	spokojna
+		woda -> spokojna [label=11 len=9.09090909091]
+	jezioro
+		woda -> jezioro [label=10 len=10.0]
+	mokre
+		woda -> mokre [label=10 len=10.0]
+	"pić"
+		woda -> "pić" [label=10 len=10.0]
+	"rwąca"
+		woda -> "rwąca" [label=10 len=10.0]
+	"święcona"
+		woda -> "święcona" [label=10 len=10.0]
+	"źródło"
+		woda -> "źródło" [label=10 len=10.0]
+	kran
+		woda -> kran [label=9 len=11.1111111111]
+	"napój"
+		woda -> "napój" [label=8 len=12.5]
+	ocean
+		woda -> ocean [label=8 len=12.5]
+	przejrzysta
+		woda -> przejrzysta [label=8 len=12.5]
+	ciecz
+		woda -> ciecz [label=7 len=14.2857142857]
+	kropla
+		woda -> kropla [label=7 len=14.2857142857]
+	sodowa
+		woda -> sodowa [label=7 len=14.2857142857]
+	bystra
+		woda -> bystra [label=6 len=16.6666666667]
+	"czystość"
+		woda -> "czystość" [label=6 len=16.6666666667]
+	pitna
+		woda -> pitna [label=6 len=16.6666666667]
+	"płyn"
+		woda -> "płyn" [label=6 len=16.6666666667]
+	"przeźroczysta"
+		woda -> "przeźroczysta" [label=6 len=16.6666666667]
+	"słona"
+		woda -> "słona" [label=6 len=16.6666666667]
+	butelka
+		woda -> butelka [label=5 len=20.0]
+	"ciepła"
+		woda -> "ciepła" [label=5 len=20.0]
+	"do picia"
+		woda -> "do picia" [label=5 len=20.0]
+	gazowana
+		woda -> gazowana [label=5 len=20.0]
+	"kolońska"
+		woda -> "kolońska" [label=5 len=20.0]
+	morska
+		woda -> morska [label=5 len=20.0]
+	szum
+		woda -> szum [label=5 len=20.0]
+	wielka
+		woda -> wielka [label=5 len=20.0]
+	brudna
+		woda -> brudna [label=4 len=25.0]
+	niebieski
+		woda -> niebieski [label=4 len=25.0]
+	niegazowana
+		woda -> niegazowana [label=4 len=25.0]
+	plusk
+		woda -> plusk [label=4 len=25.0]
+	brzeg
+		woda -> brzeg [label=3 len=33.3333333333]
+	kac
+		woda -> kac [label=3 len=33.3333333333]
+	strumyk
+		woda -> strumyk [label=3 len=33.3333333333]
+	szeroka
+		woda -> szeroka [label=3 len=33.3333333333]
+	szklanka
+		woda -> szklanka [label=3 len=33.3333333333]
+	"śnieg"
+		woda -> "śnieg" [label=3 len=33.3333333333]
+	"świeża"
+		woda -> "świeża" [label=3 len=33.3333333333]
+	"świeżość"
+		woda -> "świeżość" [label=3 len=33.3333333333]
+	wakacje
+		woda -> wakacje [label=3 len=33.3333333333]
+	wartka
+		woda -> wartka [label=3 len=33.3333333333]
+	wodospad
+		woda -> wodospad [label=3 len=33.3333333333]
+	"wóda"
+		woda -> "wóda" [label=3 len=33.3333333333]
+	zimno
+		woda -> zimno [label=3 len=33.3333333333]
+	"żywioł"
+		woda -> "żywioł" [label=3 len=33.3333333333]
+	ciemna
+		woda -> ciemna [label=2 len=50.0]
+	deszcz
+		woda -> deszcz [label=2 len=50.0]
+	"duża"
+		woda -> "duża" [label=2 len=50.0]
+	H20
+		woda -> H20 [label=2 len=50.0]
+	"lód"
+		woda -> "lód" [label=2 len=50.0]
+	"mętna"
+		woda -> "mętna" [label=2 len=50.0]
+	mokry
+		woda -> mokry [label=2 len=50.0]
+	ognista
+		woda -> ognista [label=2 len=50.0]
+	"orzeźwienie"
+		woda -> "orzeźwienie" [label=2 len=50.0]
+	"pływanie"
+		woda -> "pływanie" [label=2 len=50.0]
+	powietrze
+		woda -> powietrze [label=2 len=50.0]
+	przezroczysta
+		woda -> przezroczysta [label=2 len=50.0]
+	"przezroczystość"
+		woda -> "przezroczystość" [label=2 len=50.0]
+	pustynia
+		woda -> pustynia [label=2 len=50.0]
+	ryba
+		woda -> ryba [label=2 len=50.0]
+	smaczna
+		woda -> smaczna [label=2 len=50.0]
+	studnia
+		woda -> studnia [label=2 len=50.0]
+	tafla
+		woda -> tafla [label=2 len=50.0]
+	toaletowa
+		woda -> toaletowa [label=2 len=50.0]
+	utleniona
+		woda -> utleniona [label=2 len=50.0]
+	"wilgoć"
+		woda -> "wilgoć" [label=2 len=50.0]
+	"wódka"
+		woda -> "wódka" [label=2 len=50.0]
+	ziemia
+		woda -> ziemia [label=2 len=50.0]
+	"życia"
+		woda -> "życia" [label=2 len=50.0]
+	"śnieg"
+		bialy -> "śnieg" [label=181 len=0.552486187845]
+	kolor
+		bialy -> kolor [label=111 len=0.900900900901]
+	czarny
+		bialy -> czarny [label=79 len=1.26582278481]
+	kruk
+		bialy -> kruk [label=43 len=2.32558139535]
+	dom
+		bialy -> dom [label=34 len=2.94117647059]
+	"miś"
+		bialy -> "miś" [label=28 len=3.57142857143]
+	obrus
+		bialy -> obrus [label=26 len=3.84615384615]
+	"koń"
+		bialy -> "koń" [label=17 len=5.88235294118]
+	ser
+		bialy -> ser [label=17 len=5.88235294118]
+	"kieł"
+		bialy -> "kieł" [label=15 len=6.66666666667]
+	"orzeł"
+		bialy -> "orzeł" [label=15 len=6.66666666667]
+	"dzień"
+		bialy -> "dzień" [label=13 len=7.69230769231]
+	papier
+		bialy -> papier [label=11 len=9.09090909091]
+	kot
+		bialy -> kot [label=10 len=10.0]
+	puch
+		bialy -> puch [label=10 len=10.0]
+	jasny
+		bialy -> jasny [label=9 len=11.1111111111]
+	snieg
+		bialy -> snieg [label=9 len=11.1111111111]
+	"jeleń"
+		bialy -> "jeleń" [label=7 len=14.2857142857]
+	proszek
+		bialy -> proszek [label=7 len=14.2857142857]
+	mleko
+		bialy -> mleko [label=6 len=16.6666666667]
+	"niewinność"
+		bialy -> "niewinność" [label=6 len=16.6666666667]
+	chleb
+		bialy -> chleb [label=5 len=20.0]
+	"czystość"
+		bialy -> "czystość" [label=5 len=20.0]
+	chmura
+		bialy -> chmura [label=4 len=25.0]
+	czysty
+		bialy -> czysty [label=4 len=25.0]
+	dym
+		bialy -> dym [label=4 len=25.0]
+	"kołnierzyk"
+		bialy -> "kołnierzyk" [label=4 len=25.0]
+	kwiat
+		bialy -> kwiat [label=4 len=25.0]
+	"niedźwiedź"
+		bialy -> "niedźwiedź" [label=4 len=25.0]
+	pies
+		bialy -> pies [label=4 len=25.0]
+	"bałwan"
+		bialy -> "bałwan" [label=3 len=33.3333333333]
+	"człowiek"
+		bialy -> "człowiek" [label=3 len=33.3333333333]
+	"gołąb"
+		bialy -> "gołąb" [label=3 len=33.3333333333]
+	"kościół"
+		bialy -> "kościół" [label=3 len=33.3333333333]
+	"łabądź"
+		bialy -> "łabądź" [label=3 len=33.3333333333]
+	"mężczyzna"
+		bialy -> "mężczyzna" [label=3 len=33.3333333333]
+	"ściana"
+		bialy -> "ściana" [label=3 len=33.3333333333]
+	welon
+		bialy -> welon [label=3 len=33.3333333333]
+	"ząb"
+		bialy -> "ząb" [label=3 len=33.3333333333]
+	"anioł"
+		bialy -> "anioł" [label=2 len=50.0]
+	barwa
+		bialy -> barwa [label=2 len=50.0]
+	ekran
+		bialy -> ekran [label=2 len=50.0]
+	flaga
+		bialy -> flaga [label=2 len=50.0]
+	kapelusz
+		bialy -> kapelusz [label=2 len=50.0]
+	koc
+		bialy -> koc [label=2 len=50.0]
+	"krzyż"
+		bialy -> "krzyż" [label=2 len=50.0]
+	"księżyc"
+		bialy -> "księżyc" [label=2 len=50.0]
+	niewinny
+		bialy -> niewinny [label=2 len=50.0]
+	"pokój"
+		bialy -> "pokój" [label=2 len=50.0]
+	"prądnik"
+		bialy -> "prądnik" [label=2 len=50.0]
+	ptak
+		bialy -> ptak [label=2 len=50.0]
+	rumak
+		bialy -> rumak [label=2 len=50.0]
+	"szkwał"
+		bialy -> "szkwał" [label=2 len=50.0]
+	wilk
+		bialy -> wilk [label=2 len=50.0]
+}

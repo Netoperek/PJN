@@ -1,0 +1,473 @@
+// My Graph
+digraph {
+	lewo
+		prawo -> lewo [label=164 len=0.609756097561]
+	"sąd"
+		prawo -> "sąd" [label=111 len=0.900900900901]
+	"sprawiedliwość"
+		prawo -> "sprawiedliwość" [label=96 len=1.04166666667]
+	jazdy
+		prawo -> jazdy [label=45 len=2.22222222222]
+	prawnik
+		prawo -> prawnik [label=22 len=4.54545454545]
+	kodeks
+		prawo -> kodeks [label=21 len=4.7619047619]
+	"porządek"
+		prawo -> "porządek" [label=19 len=5.26315789474]
+	"i sprawiedliwość"
+		prawo -> "i sprawiedliwość" [label=15 len=6.66666666667]
+	karne
+		prawo -> karne [label=15 len=6.66666666667]
+	agaty
+		prawo -> agaty [label=14 len=7.14285714286]
+	bezprawie
+		prawo -> bezprawie [label=10 len=10.0]
+	studia
+		prawo -> studia [label=10 len=10.0]
+	"sędzia"
+		prawo -> "sędzia" [label=7 len=14.2857142857]
+	twarde
+		prawo -> twarde [label=7 len=14.2857142857]
+	pracy
+		prawo -> pracy [label=6 len=16.6666666667]
+	adwokat
+		prawo -> adwokat [label=5 len=20.0]
+	"człowieka"
+		prawo -> "człowieka" [label=5 len=20.0]
+	konstytucja
+		prawo -> konstytucja [label=5 len=20.0]
+	nauka
+		prawo -> nauka [label=5 len=20.0]
+	sad
+		prawo -> sad [label=5 len=20.0]
+	"i porządek"
+		prawo -> "i porządek" [label=4 len=25.0]
+	lew
+		prawo -> lew [label=4 len=25.0]
+	zasady
+		prawo -> zasady [label=4 len=25.0]
+	administracja
+		prawo -> administracja [label=3 len=33.3333333333]
+	agata
+		prawo -> agata [label=3 len=33.3333333333]
+	cywilne
+		prawo -> cywilne [label=3 len=33.3333333333]
+	"do życia"
+		prawo -> "do życia" [label=3 len=33.3333333333]
+	kierunek
+		prawo -> kierunek [label=3 len=33.3333333333]
+	lewa
+		prawo -> lewa [label=3 len=33.3333333333]
+	"łamać"
+		prawo -> "łamać" [label=3 len=33.3333333333]
+	natury
+		prawo -> natury [label=3 len=33.3333333333]
+	"niesprawiedliwość"
+		prawo -> "niesprawiedliwość" [label=3 len=33.3333333333]
+	"pięści"
+		prawo -> "pięści" [label=3 len=33.3333333333]
+	polskie
+		prawo -> polskie [label=3 len=33.3333333333]
+	rzymskie
+		prawo -> rzymskie [label=3 len=33.3333333333]
+	silniejszego
+		prawo -> silniejszego [label=3 len=33.3333333333]
+	uj
+		prawo -> uj [label=3 len=33.3333333333]
+	ulicy
+		prawo -> ulicy [label=3 len=33.3333333333]
+	"wolność"
+		prawo -> "wolność" [label=3 len=33.3333333333]
+	"boże"
+		prawo -> "boże" [label=2 len=50.0]
+	"dżungla"
+		prawo -> "dżungla" [label=2 len=50.0]
+	"dżungli"
+		prawo -> "dżungli" [label=2 len=50.0]
+	"głosu"
+		prawo -> "głosu" [label=2 len=50.0]
+	"i administracja"
+		prawo -> "i administracja" [label=2 len=50.0]
+	jazda
+		prawo -> jazda [label=2 len=50.0]
+	kara
+		prawo -> kara [label=2 len=50.0]
+	moralne
+		prawo -> moralne [label=2 len=50.0]
+	niesprawiedliwe
+		prawo -> niesprawiedliwe [label=2 len=50.0]
+	"obowiązek"
+		prawo -> "obowiązek" [label=2 len=50.0]
+	ojca
+		prawo -> ojca [label=2 len=50.0]
+	prawo
+		prawo -> prawo [label=2 len=50.0]
+	przepisy
+		prawo -> przepisy [label=2 len=50.0]
+	przestrzeganie
+		prawo -> przestrzeganie [label=2 len=50.0]
+	"reguły"
+		prawo -> "reguły" [label=2 len=50.0]
+	"są"
+		prawo -> "są" [label=2 len=50.0]
+	"życie"
+		prawo -> "życie" [label=2 len=50.0]
+	adwokat
+		obronca -> adwokat [label=89 len=1.12359550562]
+	"sąd"
+		obronca -> "sąd" [label=78 len=1.28205128205]
+	bohater
+		obronca -> bohater [label=36 len=2.77777777778]
+	prawnik
+		obronca -> prawnik [label=36 len=2.77777777778]
+	"uciśnionych"
+		obronca -> "uciśnionych" [label=26 len=3.84615384615]
+	praw
+		obronca -> praw [label=25 len=4.0]
+	rycerz
+		obronca -> rycerz [label=25 len=4.0]
+	tarcza
+		obronca -> tarcza [label=21 len=4.7619047619]
+	"krzyża"
+		obronca -> "krzyża" [label=20 len=5.0]
+	prawo
+		obronca -> prawo [label=17 len=5.88235294118]
+	pies
+		obronca -> pies [label=14 len=7.14285714286]
+	"zwierząt"
+		obronca -> "zwierząt" [label=14 len=7.14285714286]
+	"piłkarz"
+		obronca -> "piłkarz" [label=13 len=7.69230769231]
+	policjant
+		obronca -> policjant [label=12 len=8.33333333333]
+	"praw człowieka"
+		obronca -> "praw człowieka" [label=12 len=8.33333333333]
+	prawa
+		obronca -> prawa [label=12 len=8.33333333333]
+	wiary
+		obronca -> wiary [label=12 len=8.33333333333]
+	dobry
+		obronca -> dobry [label=11 len=9.09090909091]
+	pomoc
+		obronca -> pomoc [label=10 len=10.0]
+	napastnik
+		obronca -> napastnik [label=9 len=11.1111111111]
+	"piłka nożna"
+		obronca -> "piłka nożna" [label=9 len=11.1111111111]
+	"żołnierz"
+		obronca -> "żołnierz" [label=9 len=11.1111111111]
+	"mężczyzna"
+		obronca -> "mężczyzna" [label=7 len=14.2857142857]
+	"praw zwierząt"
+		obronca -> "praw zwierząt" [label=7 len=14.2857142857]
+	ochrona
+		obronca -> ochrona [label=6 len=16.6666666667]
+	prokurator
+		obronca -> prokurator [label=6 len=16.6666666667]
+	narodu
+		obronca -> narodu [label=5 len=20.0]
+	obrona
+		obronca -> obrona [label=5 len=20.0]
+	ochroniarz
+		obronca -> ochroniarz [label=5 len=20.0]
+	"piłka"
+		obronca -> "piłka" [label=5 len=20.0]
+	"sprawiedliwość"
+		obronca -> "sprawiedliwość" [label=5 len=20.0]
+	"świata"
+		obronca -> "świata" [label=5 len=20.0]
+	atak
+		obronca -> atak [label=4 len=25.0]
+	"krzyż"
+		obronca -> "krzyż" [label=4 len=25.0]
+	miecz
+		obronca -> miecz [label=4 len=25.0]
+	sad
+		obronca -> sad [label=4 len=25.0]
+	wojsko
+		obronca -> wojsko [label=4 len=25.0]
+	wybawca
+		obronca -> wybawca [label=4 len=25.0]
+	"zwierzęta"
+		obronca -> "zwierzęta" [label=4 len=25.0]
+	"życia"
+		obronca -> "życia" [label=4 len=25.0]
+	dzieci
+		obronca -> dzieci [label=3 len=33.3333333333]
+	Honor
+		obronca -> Honor [label=3 len=33.3333333333]
+	odwaga
+		obronca -> odwaga [label=3 len=33.3333333333]
+	ojczyzny
+		obronca -> ojczyzny [label=3 len=33.3333333333]
+	prawny
+		obronca -> prawny [label=3 len=33.3333333333]
+	protektor
+		obronca -> protektor [label=3 len=33.3333333333]
+	ratunek
+		obronca -> ratunek [label=3 len=33.3333333333]
+	"sądowy"
+		obronca -> "sądowy" [label=3 len=33.3333333333]
+	walka
+		obronca -> walka [label=3 len=33.3333333333]
+	"wolności"
+		obronca -> "wolności" [label=3 len=33.3333333333]
+	zamek
+		obronca -> zamek [label=3 len=33.3333333333]
+	batman
+		obronca -> batman [label=2 len=50.0]
+	"bezpieczeństwo"
+		obronca -> "bezpieczeństwo" [label=2 len=50.0]
+	BIEDNYCH
+		obronca -> BIEDNYCH [label=2 len=50.0]
+	bramkarz
+		obronca -> bramkarz [label=2 len=50.0]
+	"człowiek"
+		obronca -> "człowiek" [label=2 len=50.0]
+	dobra
+		obronca -> dobra [label=2 len=50.0]
+	dobro
+		obronca -> dobro [label=2 len=50.0]
+	kobiet
+		obronca -> kobiet [label=2 len=50.0]
+	krasnolud
+		obronca -> krasnolud [label=2 len=50.0]
+	mecz
+		obronca -> mecz [label=2 len=50.0]
+	"moralności"
+		obronca -> "moralności" [label=2 len=50.0]
+	nic
+		obronca -> nic [label=2 len=50.0]
+	"oskarżony"
+		obronca -> "oskarżony" [label=2 len=50.0]
+	"oskarżyciel"
+		obronca -> "oskarżyciel" [label=2 len=50.0]
+	pilka
+		obronca -> pilka [label=2 len=50.0]
+	pomocnik
+		obronca -> pomocnik [label=2 len=50.0]
+	przyjaciel
+		obronca -> przyjaciel [label=2 len=50.0]
+	przyrody
+		obronca -> przyrody [label=2 len=50.0]
+	"ryceż"
+		obronca -> "ryceż" [label=2 len=50.0]
+	skazany
+		obronca -> skazany [label=2 len=50.0]
+	soldat
+		obronca -> soldat [label=2 len=50.0]
+	"sprawiedliwości"
+		obronca -> "sprawiedliwości" [label=2 len=50.0]
+	toga
+		obronca -> toga [label=2 len=50.0]
+	"urząd"
+		obronca -> "urząd" [label=2 len=50.0]
+	wojownik
+		obronca -> wojownik [label=2 len=50.0]
+	"z urzędu"
+		obronca -> "z urzędu" [label=2 len=50.0]
+	"złoczyńca"
+		obronca -> "złoczyńca" [label=2 len=50.0]
+	"sędzia"
+		sad -> "sędzia" [label=112 len=0.892857142857]
+	prawo
+		sad -> prawo [label=87 len=1.14942528736]
+	ostateczny
+		sad -> ostateczny [label=76 len=1.31578947368]
+	wyrok
+		sad -> wyrok [label=63 len=1.5873015873]
+	"sprawiedliwość"
+		sad -> "sprawiedliwość" [label=55 len=1.81818181818]
+	"najwyższy"
+		sad -> "najwyższy" [label=30 len=3.33333333333]
+	adwokat
+		sad -> adwokat [label=24 len=4.16666666667]
+	kara
+		sad -> kara [label=24 len=4.16666666667]
+	prawnik
+		sad -> prawnik [label=23 len=4.34782608696]
+	"okręgowy"
+		sad -> "okręgowy" [label=21 len=4.7619047619]
+	rodzinny
+		sad -> rodzinny [label=16 len=6.25]
+	rejonowy
+		sad -> rejonowy [label=11 len=9.09090909091]
+	rozprawa
+		sad -> rozprawa [label=11 len=9.09090909091]
+	"boży"
+		sad -> "boży" [label=10 len=10.0]
+	"ława"
+		sad -> "ława" [label=10 len=10.0]
+	"więzienie"
+		sad -> "więzienie" [label=10 len=10.0]
+	"osąd"
+		sad -> "osąd" [label=9 len=11.1111111111]
+	prokurator
+		sad -> prokurator [label=9 len=11.1111111111]
+	sprawiedliwy
+		sad -> sprawiedliwy [label=8 len=12.5]
+	sprawa
+		sad -> sprawa [label=7 len=14.2857142857]
+	grodzki
+		sad -> grodzki [label=6 len=16.6666666667]
+	"ława przysięgłych"
+		sad -> "ława przysięgłych" [label=6 len=16.6666666667]
+	sedzia
+		sad -> sedzia [label=6 len=16.6666666667]
+	waga
+		sad -> waga [label=6 len=16.6666666667]
+	"niesprawiedliwość"
+		sad -> "niesprawiedliwość" [label=5 len=20.0]
+	powszechny
+		sad -> powszechny [label=5 len=20.0]
+	wysoki
+		sad -> wysoki [label=5 len=20.0]
+	apelacja
+		sad -> apelacja [label=4 len=25.0]
+	apelacyjny
+		sad -> apelacyjny [label=4 len=25.0]
+	"niezawisły"
+		sad -> "niezawisły" [label=4 len=25.0]
+	"oskarżenie"
+		sad -> "oskarżenie" [label=4 len=25.0]
+	toga
+		sad -> toga [label=4 len=25.0]
+	wojskowy
+		sad -> wojskowy [label=4 len=25.0]
+	"anna maria wesołowska"
+		sad -> "anna maria wesołowska" [label=3 len=33.3333333333]
+	okregowy
+		sad -> okregowy [label=3 len=33.3333333333]
+	orzeczenie
+		sad -> orzeczenie [label=3 len=33.3333333333]
+	policja
+		sad -> policja [label=3 len=33.3333333333]
+	prawnicy
+		sad -> prawnicy [label=3 len=33.3333333333]
+	proces
+		sad -> proces [label=3 len=33.3333333333]
+	skazany
+		sad -> skazany [label=3 len=33.3333333333]
+	administracja
+		sad -> administracja [label=2 len=50.0]
+	budynek
+		sad -> budynek [label=2 len=50.0]
+	czas
+		sad -> czas [label=2 len=50.0]
+	Kafka
+		sad -> Kafka [label=2 len=50.0]
+	"kryminał"
+		sad -> "kryminał" [label=2 len=50.0]
+	medycyna
+		sad -> medycyna [label=2 len=50.0]
+	najwyzszy
+		sad -> najwyzszy [label=2 len=50.0]
+	niesprawiedliwy
+		sad -> niesprawiedliwy [label=2 len=50.0]
+	"niezawisłość"
+		sad -> "niezawisłość" [label=2 len=50.0]
+	niezawistny
+		sad -> niezawistny [label=2 len=50.0]
+	ocena
+		sad -> ocena [label=2 len=50.0]
+	pozew
+		sad -> pozew [label=2 len=50.0]
+	"samosąd"
+		sad -> "samosąd" [label=2 len=50.0]
+	strach
+		sad -> strach [label=2 len=50.0]
+	wina
+		sad -> wina [label=2 len=50.0]
+	wokanda
+		sad -> wokanda [label=2 len=50.0]
+	lewa
+		prawa -> lewa [label=164 len=0.609756097561]
+	"ręka"
+		prawa -> "ręka" [label=156 len=0.641025641026]
+	strona
+		prawa -> strona [label=88 len=1.13636363636]
+	"człowieka"
+		prawa -> "człowieka" [label=82 len=1.21951219512]
+	"obowiązki"
+		prawa -> "obowiązki" [label=34 len=2.94117647059]
+	noga
+		prawa -> noga [label=27 len=3.7037037037]
+	autorskie
+		prawa -> autorskie [label=22 len=4.54545454545]
+	natury
+		prawa -> natury [label=22 len=4.54545454545]
+	"sąd"
+		prawa -> "sąd" [label=20 len=5.0]
+	dziecka
+		prawa -> dziecka [label=14 len=7.14285714286]
+	reka
+		prawa -> reka [label=11 len=9.09090909091]
+	kodeks
+		prawa -> kodeks [label=10 len=10.0]
+	"człowiek"
+		prawa -> "człowiek" [label=8 len=12.5]
+	obywatelskie
+		prawa -> obywatelskie [label=8 len=12.5]
+	czlowieka
+		prawa -> czlowieka [label=6 len=16.6666666667]
+	kobiet
+		prawa -> kobiet [label=6 len=16.6666666667]
+	jazdy
+		prawa -> jazdy [label=5 len=20.0]
+	"sprawiedliwość"
+		prawa -> "sprawiedliwość" [label=5 len=20.0]
+	"dłoń"
+		prawa -> "dłoń" [label=4 len=25.0]
+	prawo
+		prawa -> prawo [label=4 len=25.0]
+	autor
+		prawa -> autor [label=3 len=33.3333333333]
+	"dżungli"
+		prawa -> "dżungli" [label=3 len=33.3333333333]
+	moje
+		prawa -> moje [label=3 len=33.3333333333]
+	studenta
+		prawa -> studenta [label=3 len=33.3333333333]
+	"zwierząt"
+		prawa -> "zwierząt" [label=3 len=33.3333333333]
+	boskie
+		prawa -> boskie [label=2 len=50.0]
+	"człowieka"
+		prawa -> "człowieka" [label=2 len=50.0]
+	"de morgana"
+		prawa -> "de morgana" [label=2 len=50.0]
+	"i obowiązki"
+		prawa -> "i obowiązki" [label=2 len=50.0]
+	jazda
+		prawa -> jazda [label=2 len=50.0]
+	konstytucja
+		prawa -> konstytucja [label=2 len=50.0]
+	ludzi
+		prawa -> ludzi [label=2 len=50.0]
+	ludzkie
+		prawa -> ludzkie [label=2 len=50.0]
+	"łamanie"
+		prawa -> "łamanie" [label=2 len=50.0]
+	natura
+		prawa -> natura [label=2 len=50.0]
+	"nie ma"
+		prawa -> "nie ma" [label=2 len=50.0]
+	obywatel
+		prawa -> obywatel [label=2 len=50.0]
+	osobiste
+		prawa -> osobiste [label=2 len=50.0]
+	"półkula"
+		prawa -> "półkula" [label=2 len=50.0]
+	"reguły"
+		prawa -> "reguły" [label=2 len=50.0]
+	"rząd"
+		prawa -> "rząd" [label=2 len=50.0]
+	tak
+		prawa -> tak [label=2 len=50.0]
+	ucznia
+		prawa -> ucznia [label=2 len=50.0]
+	"wolności"
+		prawa -> "wolności" [label=2 len=50.0]
+	zasady
+		prawa -> zasady [label=2 len=50.0]
+}
