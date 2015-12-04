@@ -14,9 +14,11 @@ dpornościowego dziecka co wynika
 -----------------------------------------------------------------------------------------------------------
 
 mleko prosto od krowy czyli takie jakie niegdyś spożywali
+
 ( m l e k o , k r o w a [ 2 0 5 ] )
 
 słuchajmy opinii tych którzy twierdzą że mleko piją
+
 ( m l e k o , p i ć [ 1 0 ] )
 
 ( m l e k o , p i ć [ 1 0 ] ) - mleko sie piję
@@ -107,6 +109,7 @@ przedostają się do kobiecego pokarmu również matka karmiąca piersią niemow
 ( m l e k o , m a t k a [ 8 ] ) ( m l e k o , p i e r ś [ 2 ] )
 
 ( m l e k o , m a t k a [ 8 ] ) - matka karmi dziecko mlekiem
+
 ( m l e k o , p i e r ś [ 2 ] ) - matka karmi dziecko mlekiem piersią
 
 -----------------------------------------------------------------------------------------------------------
