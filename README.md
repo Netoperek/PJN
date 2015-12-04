@@ -26,8 +26,8 @@ dotyczy jedynie żywienia niemowląt Otóż zarówno mleko ludzkie jak i krowie 
 
 spotykamy się z różnymi opiniami na temat picia mleka Jedni uważają
 ( m l e k o , p i c i e [ 2 3 ] )
------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------
 ( m l e k o , p i c i e [ 2 3 ] ) - mleko sie piję
 
 wynika chociażby z braku mikroflory jelitowej zwiększonej przepuszczalności błony śluzowej jelit oraz minimalnej ekspozycji na obce antygeny W związku z tym zgodnie z modelem żywienia niemowląt mleko krowie niemo
