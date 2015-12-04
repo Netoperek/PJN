@@ -5,12 +5,13 @@ dpornościowego dziecka co wynika
 
 ( m l e k o , k r o w a [ 2 0 5 ] ) ( m l e k o , d z i e c k o [ 2 ] ) ( m l e k o , t ł u s z c z [ 3 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , k r o w a [ 2 0 5 ] ) - mleko pochodzi od krowy
 
 ( m l e k o , d z i e c k o [ 2 ] ) - dziecko pije mleko
 
 ( m l e k o , t ł u s z c z [ 3 ] ) - mleko zawiera tłuszcz
+
+-----------------------------------------------------------------------------------------------------------
 
 mleko prosto od krowy czyli takie jakie niegdyś spożywali
 ( m l e k o , k r o w a [ 2 0 5 ] )
@@ -18,8 +19,9 @@ mleko prosto od krowy czyli takie jakie niegdyś spożywali
 słuchajmy opinii tych którzy twierdzą że mleko piją
 ( m l e k o , p i ć [ 1 0 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , p i ć [ 1 0 ] ) - mleko sie piję
+
+-----------------------------------------------------------------------------------------------------------
 
 dojrzewa układu odpornościowy który nie jest już przepuszczalny dla każdego obcego antygenu Podsumowując mleko krowie zawiera
 
@@ -33,8 +35,9 @@ spotykamy się z różnymi opiniami na temat picia mleka Jedni uważają
 
 ( m l e k o , p i c i e [ 2 3 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , p i c i e [ 2 3 ] ) - mleko sie piję
+
+-----------------------------------------------------------------------------------------------------------
 
 wynika chociażby z braku mikroflory jelitowej zwiększonej przepuszczalności błony śluzowej jelit oraz minimalnej ekspozycji na obce antygeny W związku z tym zgodnie z modelem żywienia niemowląt mleko krowie niemo
 dyfikowane można
@@ -49,9 +52,11 @@ sposób rozmieszczenia pokarmów może oznaczać że mleko jogurty i sery uważa
 
 ( m l e k o , s e r [ 2 ] ) ( m l e k o , j o g u r t [ 4 ] ) ( s e r , m l e k o [ 4 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , s e r [ 2 ] ) - ser zawiera mleko
+
 ( m l e k o , j o g u r t [ 4 ] ) - jogurt zawiera mleko
+
+-----------------------------------------------------------------------------------------------------------
 
 obejmują mleko i przetwory mleczne o obniżonej zawartości tłuszczu Wyjątek stanowią
 
@@ -69,8 +74,9 @@ wystarczy zjeść 1 batonik mniej i zastąpić go 2 szklankami mleka można
 
 ( m l e k o , s z k l a n k a [ 3 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , s z k l a n k a [ 3 ] ) - mleko pije się ze szklanki
+
+-----------------------------------------------------------------------------------------------------------
 
 spożywała 3 porcje mleka o obniżonej zawartości tłuszczu na dzień Z kolei czwarta grupa spożywała
 
@@ -88,8 +94,9 @@ oznaczałoby to wypicie prawie 15 litra mleka w ciągu doby Na szczęście jedna
 
 ( m l e k o , b i a ł k o [ 3 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , b i a ł k o [ 3 ] ) - mleko zawira białko
+
+-----------------------------------------------------------------------------------------------------------
 
 giną niekorzystne dla naszego układu pokarmowego drobnoustroje które w mleku prosto od krowy mogą
 
@@ -99,9 +106,10 @@ przedostają się do kobiecego pokarmu również matka karmiąca piersią niemow
 
 ( m l e k o , m a t k a [ 8 ] ) ( m l e k o , p i e r ś [ 2 ] )
 
------------------------------------------------------------------------------------------------------------
 ( m l e k o , m a t k a [ 8 ] ) - matka karmi dziecko mlekiem
 ( m l e k o , p i e r ś [ 2 ] ) - matka karmi dziecko mlekiem piersią
+
+-----------------------------------------------------------------------------------------------------------
 
 Mleko krowie zawiera
 
